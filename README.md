@@ -32,10 +32,6 @@ Maharashtra Board (SSC/HSC), MHT-CET aur NDA jaise exams ki taiyari ke liye bana
 - Goal popup (jaise NDA): "Bhai, NDA ki tayari kaisi chal rhi hai?"
 - History: app me kya badla, sab dikhta hai
 
-### 👥 Dost aur Chat (naya)
-- ID banao, follow/follow back, chat, 24 ghante wale Instants
-- Cloud backup se kisi bhi phone par data wapas
-- Iske liye ek alag server chalana padta hai
 
 ## 🚧 Status
 Version 1.0. Chat feature ka testing abhi chal raha hai.
